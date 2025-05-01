@@ -1,6 +1,6 @@
 # recipes
 ## ingrediants
-+ avacado
 + lemon
 + salt
++ lines
 ## instructions
